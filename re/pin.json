@@ -1,0 +1,166 @@
+[
+	{
+		"PIN": "500003",
+		"CITY": "Hydrabad, Andhra Pradesh"
+	},
+
+	{
+		"PIN": "791111",
+		"CITY": "Itanagar, Arunachal Pradesh"
+	},
+
+	{
+		"PIN": "781001",
+		"CITY": "Assam, Dispur"
+	},
+
+	{
+		"PIN": "803211",
+		"CITY": "Bihar, Patna"
+	},
+
+	{
+		"PIN": "490042",
+		"CITY": "Raipur, Chhattisgarh"
+	},
+
+	{
+		"PIN": "403001",
+		"CITY": "Panaji, Goa"
+	},
+
+	{
+		"PIN": "382007",
+		"CITY": "Gandhinagar, Gujrat"
+	},
+
+	{
+		"PIN": "133301",
+		"CITY": "Chadigarh, Haryana"
+	},
+
+	{
+		"PIN": "171210",
+		"CITY": "Shimla, Himachal Pradesh"
+	},
+
+	{
+		"PIN": "180001",
+		"CITY": "Jammu and Kashmir, Srinagar and Jammu"
+	},
+
+	{
+		"PIN": "834001",
+		"CITY": "Ranchi, Jharkhand"
+	},
+
+	{
+		"PIN": "560008",
+		"CITY": "Bengaluru, Karnataka"
+	},
+
+	{
+		"PIN": "605036",
+		"CITY": "Thiruvananthapuram, Kerala"
+	},
+
+	{
+		"PIN": "462001",
+		"CITY": "Bhopal, Madhya Pradesh"
+	},
+
+	{
+		"PIN": "400011",
+		"CITY": "Mumbai, Maharashtra"
+	},
+
+	{
+		"PIN": "795001",
+		"CITY": "Imphal, Manipur"
+	},
+
+	{
+		"PIN": "793001",
+		"CITY": "Shillong, Meghalaya"
+	},
+
+	{
+		"PIN": "796001",
+		"CITY": "Aizaql, Mizoram"
+	},
+
+	{
+		"PIN": "797001",
+		"CITY": "Kohima, Nagaland"
+	},
+
+	{
+		"PIN": "750019",
+		"CITY": "Bhubaneswar, Odisha"
+	},
+
+	{
+		"PIN": "133301",
+		"CITY": "Chandigarh, Punjab"
+	},
+
+	{
+		"PIN": "302001",
+		"CITY": "Jaipur, Rajasthan"
+	},
+
+	{
+		"PIN": "737101",
+		"CITY": "Gangtok, Sikkim"
+	},
+
+	{
+		"PIN": "600003",
+		"CITY": "Chennai, Tamil Nadu"
+	},
+
+	{
+		"PIN": "500003",
+		"CITY": "Telangana, Hyderabad"
+	},
+
+	{
+		"PIN": "799001",
+		"CITY": "Agartala, Tripura"
+	},
+
+	{
+		"PIN": "226001",
+		"CITY": "Lucknow, Uttar Pradesh"
+	},
+
+	{
+		"PIN": "248001",
+		"CITY": "Dehradun, Uttarakhand"
+	},
+
+	{
+		"PIN": "700028",
+		"CITY": "Kolkata, West Bengal"
+	},
+
+	{
+		"PIN": "110012",
+		"CITY": "Delhi"
+	},
+
+	{
+		"PIN": "605001",
+		"CITY": "Pondicherry"
+	},
+
+	{
+		"PIN": "50T0P4",
+		"CITY": "Not Valid"
+	},
+
+	{
+		"PIN": "680GR1",
+		"CITY": "Not Valid"
+	}
+]
