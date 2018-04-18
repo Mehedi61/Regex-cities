@@ -13,7 +13,7 @@ To use **Regex Major Cities** you need the dependency installed on your machine.
 git clone https://github.com/Rashmin528/Regex-cities.git  
 ```  
 ```  
-cd cd Regex-cities/re/  
+cd Regex-cities/re/  
 ```  
 ```  
 python3 Regex.py  
