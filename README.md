@@ -10,7 +10,7 @@ To use **Regex Major Cities** you need the dependency installed on your machine.
 ## Installation  
 
 ```  
-git clone https://github.com/Rashmin528/Regex-cities.git  
+git clone https://github.com/Mehedi61/Regex-cities.git  
 ```  
 ```  
 cd Regex-cities/re/  
